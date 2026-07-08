@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
-import PasswordInput from "../components/PasswordInput";
+import Passwordinput from "../components/Passwordinput";
 import Loader from "../components/Loader";
 import { toast } from "react-toastify";
 import { validateEmail } from "../utils/validation";
